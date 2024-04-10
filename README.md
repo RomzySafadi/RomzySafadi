@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomzySafadi.
-- 👀 I’m interested in the environment, healthcare, cars, soccer, and using big data to tell a story.
-- 🌱 I’m currently capable of performing statistical analyses (such as AB testing), via tools such as Python, R, SAS, SQL, and Excel. I use these tools to tell the story of data to keystakeholders in PowerPoint. I'm interested in acontinuing to grow my skills in order to become a more complete Data Scienstist that can utilize data to better help the communities around us. 
+- 👀 I’m interested in big data, innovative tech, ML, AI, the environment, healthcare, cars, and soccer.
+- 🌱 I am a dynamic and results-driven Data Scientist with a recently earned Master's degree in Data Science specialized in AI. Offering over 4 years of experience in object-oriented programming including data exploration, analysis, and visualization, coupled with expertise in statistical analysis, machine learning, and artificial intelligence techniques. Strong ability to clearly tell the story of the data to non-technical audiences via interactive dashboards and presentations. Proficient in Python and R, with a strong foundation in machine learning techniques including, but not limited to, neural networks, decision trees, and logistic regression. Eager to leverage my expertise in cloud services, data analytics, dashboarding, and machine learning to drive impactful solutions. 
 - 📫 Reach me at: safadi.romzy@gmail.com 
 
 <!---
